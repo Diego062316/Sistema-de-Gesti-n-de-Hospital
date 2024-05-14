@@ -7,4 +7,4 @@
 <summary>Subir el enlace al repositorio
 </details>
  <details><summary>Diagrama UML</summary>
-<p><img src="https://raw.githubusercontent.com/Diego062316/Sistema-de-Gesti-n-de-Hospital/main/Captura%20de%20pantalla%202024-05-14%20101353.png></p><p><a 
+<p><img src="https://raw.githubusercontent.com/Diego062316/Sistema-de-Gesti-n-de-Hospital/main/Captura%20de%20pantalla%202024-05-14%20101353.png"></p><p><a 
