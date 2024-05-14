@@ -6,4 +6,4 @@
 <summary>Incluir cualquier otro elemento que considere relevante para el correcto funcionamiento del sistema.
 <summary>Subir el enlace al repositorio
 
- <details><summary>Instrucciones:</summary>
+ <details><summary>Diagrama UML</summary>
